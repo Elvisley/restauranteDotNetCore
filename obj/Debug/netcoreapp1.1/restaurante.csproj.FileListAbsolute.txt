@@ -1,0 +1,8 @@
+/Users/elvis/projetos/restaurante/bin/Debug/netcoreapp1.1/restaurante.deps.json
+/Users/elvis/projetos/restaurante/bin/Debug/netcoreapp1.1/restaurante.runtimeconfig.json
+/Users/elvis/projetos/restaurante/bin/Debug/netcoreapp1.1/restaurante.runtimeconfig.dev.json
+/Users/elvis/projetos/restaurante/bin/Debug/netcoreapp1.1/restaurante.dll
+/Users/elvis/projetos/restaurante/bin/Debug/netcoreapp1.1/restaurante.pdb
+/Users/elvis/projetos/restaurante/obj/Debug/netcoreapp1.1/restaurante.AssemblyInfo.cs
+/Users/elvis/projetos/restaurante/obj/Debug/netcoreapp1.1/restaurante.dll
+/Users/elvis/projetos/restaurante/obj/Debug/netcoreapp1.1/restaurante.pdb
